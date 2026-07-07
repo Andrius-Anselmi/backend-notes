@@ -31,7 +31,7 @@ Neste exemplo, utilizaremos o CloudAMQP, um serviço que fornece instâncias ger
 
 Acesse o site do CloudAMQP e crie uma instância gratuita. Após a criação, você terá acesso às informações de conexão, como host, usuário, senha e virtual host, que serão utilizadas na configuração da aplicação.
 
-{% embed url="https://www.cloudamqp.com/" %}
+https://www.cloudamqp.com
 
 <figure><img src=".gitbook/assets/Captura de tela de 2026-07-06 19-34-15.png" alt=""><figcaption></figcaption></figure>
 
